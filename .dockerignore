@@ -1,0 +1,10 @@
+target/
+data.db
+*.log
+*.txt
+.env
+.env.*
+!.env.example
+.vscode/
+.kilo/
+.git/
